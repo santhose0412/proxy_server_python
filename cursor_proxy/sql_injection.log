@@ -1,0 +1,372 @@
+2025-01-22 12:08:40,208 - ERROR - Error processing request: <urlopen error [Errno 11001] getaddrinfo failed>
+2025-01-22 12:08:40,250 - ERROR - Error processing request: <urlopen error [Errno 11001] getaddrinfo failed>
+2025-01-22 12:13:17,672 - INFO - Request processed successfully: http://example.com/
+2025-01-22 12:13:54,990 - INFO - Request processed successfully: http://erp.mepcoeng.ac.in/
+2025-01-22 12:17:04,852 - INFO - Request processed successfully: http://detectportal.firefox.com/success.txt
+2025-01-22 12:17:06,350 - ERROR - Error handling CONNECT: [Errno 11001] getaddrinfo failed
+2025-01-22 12:17:06,353 - ERROR - Error handling CONNECT: [Errno 11001] getaddrinfo failed
+2025-01-22 12:17:16,541 - ERROR - Error processing request: [WinError 10053] An established connection was aborted by the software in your host machine
+2025-01-22 12:17:20,111 - INFO - Request processed successfully: http://detectportal.firefox.com/success.txt
+2025-01-22 12:17:34,203 - ERROR - Error processing request: <urlopen error [Errno 11001] getaddrinfo failed>
+2025-01-22 12:17:34,208 - ERROR - Error handling CONNECT: [Errno 11001] getaddrinfo failed
+2025-01-22 12:17:34,211 - ERROR - Error handling CONNECT: [Errno 11001] getaddrinfo failed
+2025-01-22 12:17:34,214 - ERROR - Error handling CONNECT: [Errno 11001] getaddrinfo failed
+2025-01-22 12:17:34,216 - ERROR - Error processing request: <urlopen error [Errno 11001] getaddrinfo failed>
+2025-01-22 12:17:35,251 - ERROR - Error processing request: <urlopen error [Errno 11001] getaddrinfo failed>
+2025-01-22 12:17:35,271 - ERROR - Error processing request: <urlopen error [Errno 11001] getaddrinfo failed>
+2025-01-22 12:17:35,324 - ERROR - Error processing request: <urlopen error [Errno 11001] getaddrinfo failed>
+2025-01-22 12:17:35,345 - ERROR - Error processing request: <urlopen error [Errno 11001] getaddrinfo failed>
+2025-01-22 12:17:35,349 - ERROR - Error processing request: <urlopen error [Errno 11001] getaddrinfo failed>
+2025-01-22 12:17:35,356 - ERROR - Error processing request: <urlopen error [Errno 11001] getaddrinfo failed>
+2025-01-22 12:17:36,246 - ERROR - Error processing request: <urlopen error [Errno 11001] getaddrinfo failed>
+2025-01-22 12:17:36,251 - ERROR - Error processing request: <urlopen error [Errno 11001] getaddrinfo failed>
+2025-01-22 12:17:36,255 - ERROR - Error processing request: <urlopen error [Errno 11001] getaddrinfo failed>
+2025-01-22 12:17:36,259 - ERROR - Error processing request: <urlopen error [Errno 11001] getaddrinfo failed>
+2025-01-22 12:17:36,262 - ERROR - Error processing request: <urlopen error [Errno 11001] getaddrinfo failed>
+2025-01-22 12:17:36,265 - ERROR - Error processing request: <urlopen error [Errno 11001] getaddrinfo failed>
+2025-01-22 12:17:42,545 - ERROR - Error processing request: <urlopen error [Errno 11001] getaddrinfo failed>
+2025-01-22 12:17:42,548 - ERROR - Error processing request: <urlopen error [Errno 11001] getaddrinfo failed>
+2025-01-22 12:17:42,551 - ERROR - Error processing request: <urlopen error [Errno 11001] getaddrinfo failed>
+2025-01-22 12:17:42,555 - ERROR - Error processing request: <urlopen error [Errno 11001] getaddrinfo failed>
+2025-01-22 12:17:42,558 - ERROR - Error processing request: <urlopen error [Errno 11001] getaddrinfo failed>
+2025-01-22 12:17:42,560 - ERROR - Error processing request: <urlopen error [Errno 11001] getaddrinfo failed>
+2025-01-22 12:17:58,265 - INFO - Request processed successfully: http://detectportal.firefox.com/success.txt
+2025-01-22 12:18:01,297 - INFO - Request processed successfully: http://detectportal.firefox.com/success.txt
+2025-01-22 12:18:07,154 - INFO - Request processed successfully: http://detectportal.firefox.com/success.txt
+2025-01-22 12:18:18,122 - ERROR - Error processing request: [WinError 10053] An established connection was aborted by the software in your host machine
+2025-01-22 12:18:21,769 - INFO - Request processed successfully: http://detectportal.firefox.com/success.txt
+2025-01-22 12:18:27,010 - INFO - Request processed successfully: http://detectportal.firefox.com/success.txt
+2025-01-22 12:18:38,829 - INFO - Request processed successfully: http://detectportal.firefox.com/success.txt
+2025-01-22 12:21:53,259 - ERROR - Error processing request: [WinError 10053] An established connection was aborted by the software in your host machine
+2025-01-22 12:21:57,873 - ERROR - Error processing request: [WinError 10053] An established connection was aborted by the software in your host machine
+2025-01-22 12:21:59,880 - INFO - Request processed successfully: http://detectportal.firefox.com/success.txt
+2025-01-22 12:22:41,524 - INFO - Request processed successfully: http://detectportal.firefox.com/success.txt
+2025-01-22 12:23:31,919 - INFO - Resolved snippets.cdn.mozilla.net to 3.164.85.87
+2025-01-22 12:23:44,639 - ERROR - DNS resolution failed for tiles.services.mozilla.com: [Errno 11001] getaddrinfo failed
+2025-01-22 12:23:54,682 - ERROR - DNS resolution failed for tiles.services.mozilla.com: [Errno 11001] getaddrinfo failed
+2025-01-22 12:24:04,501 - INFO - Resolved snippets.cdn.mozilla.net to 3.164.85.87
+2025-01-22 12:24:15,652 - ERROR - DNS resolution failed for tiles.services.mozilla.com: [Errno 11001] getaddrinfo failed
+2025-01-22 12:24:25,686 - ERROR - DNS resolution failed for tiles.services.mozilla.com: [Errno 11001] getaddrinfo failed
+2025-01-22 12:24:25,940 - INFO - Request processed successfully: http://erp.mepcoeng.ac.in/
+2025-01-22 12:25:01,365 - INFO - Resolved snippets.cdn.mozilla.net to 3.164.85.17
+2025-01-22 12:26:16,235 - ERROR - DNS resolution failed for tiles.services.mozilla.com: [Errno 11001] getaddrinfo failed
+2025-01-22 12:26:16,267 - INFO - Resolved aus5.mozilla.org to 35.244.181.201
+2025-01-22 12:26:20,990 - INFO - Resolved incoming.telemetry.mozilla.org to 34.120.208.123
+2025-01-22 12:26:23,289 - INFO - Resolved incoming.telemetry.mozilla.org to 34.120.208.123
+2025-01-22 12:26:25,026 - INFO - Resolved incoming.telemetry.mozilla.org to 34.120.208.123
+2025-01-22 12:26:26,096 - INFO - Resolved incoming.telemetry.mozilla.org to 34.120.208.123
+2025-01-22 12:26:26,677 - INFO - Resolved incoming.telemetry.mozilla.org to 34.120.208.123
+2025-01-22 12:26:28,647 - INFO - Resolved incoming.telemetry.mozilla.org to 34.120.208.123
+2025-01-22 12:26:31,479 - INFO - Resolved incoming.telemetry.mozilla.org to 34.120.208.123
+2025-01-22 12:26:34,392 - INFO - Resolved incoming.telemetry.mozilla.org to 34.120.208.123
+2025-01-22 12:26:40,092 - INFO - Resolved incoming.telemetry.mozilla.org to 34.120.208.123
+2025-01-22 12:26:42,551 - INFO - Resolved incoming.telemetry.mozilla.org to 34.120.208.123
+2025-01-22 12:27:12,035 - INFO - Resolved snippets.cdn.mozilla.net to 3.164.85.24 (attempt 1)
+2025-01-22 12:27:17,044 - WARNING - DNS resolution failed for tiles.services.mozilla.com using 8.8.8.8: The resolution lifetime expired after 3.102 seconds: Server Do53:8.8.8.8@53 answered The DNS operation timed out.
+2025-01-22 12:27:20,147 - WARNING - DNS resolution failed for tiles.services.mozilla.com using 8.8.4.4: The resolution lifetime expired after 3.102 seconds: Server Do53:8.8.4.4@53 answered The DNS operation timed out.
+2025-01-22 12:27:23,253 - WARNING - DNS resolution failed for tiles.services.mozilla.com using 1.1.1.1: The resolution lifetime expired after 3.105 seconds: Server Do53:1.1.1.1@53 answered The DNS operation timed out.
+2025-01-22 12:27:26,362 - WARNING - DNS resolution failed for tiles.services.mozilla.com using 1.0.0.1: The resolution lifetime expired after 3.108 seconds: Server Do53:1.0.0.1@53 answered The DNS operation timed out.
+2025-01-22 12:27:29,472 - WARNING - DNS resolution failed for tiles.services.mozilla.com using 208.67.222.222: The resolution lifetime expired after 3.110 seconds: Server Do53:208.67.222.222@53 answered The DNS operation timed out.
+2025-01-22 12:27:32,586 - WARNING - DNS resolution failed for tiles.services.mozilla.com using 208.67.220.220: The resolution lifetime expired after 3.114 seconds: Server Do53:208.67.220.220@53 answered The DNS operation timed out.
+2025-01-22 12:27:37,590 - ERROR - All DNS resolution attempts failed for tiles.services.mozilla.com: The resolution lifetime expired after 5.003 seconds: Server Do53:8.8.8.8@53 answered The DNS operation timed out.
+2025-01-22 12:27:41,812 - WARNING - DNS resolution failed for tiles.services.mozilla.com using 8.8.8.8: The resolution lifetime expired after 3.104 seconds: Server Do53:8.8.8.8@53 answered The DNS operation timed out.
+2025-01-22 12:27:44,977 - WARNING - DNS resolution failed for tiles.services.mozilla.com using 8.8.4.4: The resolution lifetime expired after 3.164 seconds: Server Do53:8.8.4.4@53 answered The DNS operation timed out.
+2025-01-22 12:27:48,235 - WARNING - DNS resolution failed for tiles.services.mozilla.com using 1.1.1.1: The resolution lifetime expired after 3.257 seconds: Server Do53:1.1.1.1@53 answered The DNS operation timed out.
+2025-01-22 12:27:51,334 - WARNING - DNS resolution failed for tiles.services.mozilla.com using 1.0.0.1: The resolution lifetime expired after 3.099 seconds: Server Do53:1.0.0.1@53 answered The DNS operation timed out.
+2025-01-22 12:27:54,448 - WARNING - DNS resolution failed for tiles.services.mozilla.com using 208.67.222.222: The resolution lifetime expired after 3.113 seconds: Server Do53:208.67.222.222@53 answered The DNS operation timed out.
+2025-01-22 12:30:06,744 - INFO - Resolved snippets.cdn.mozilla.net to 3.164.85.9 (attempt 1)
+2025-01-22 12:30:25,841 - WARNING - DNS resolution failed for tiles.services.mozilla.com using 8.8.8.8: The resolution lifetime expired after 3.092 seconds: Server Do53:8.8.8.8@53 answered The DNS operation timed out.
+2025-01-22 12:30:28,948 - WARNING - DNS resolution failed for tiles.services.mozilla.com using 8.8.4.4: The resolution lifetime expired after 3.106 seconds: Server Do53:8.8.4.4@53 answered The DNS operation timed out.
+2025-01-22 12:30:32,061 - WARNING - DNS resolution failed for tiles.services.mozilla.com using 1.1.1.1: The resolution lifetime expired after 3.112 seconds: Server Do53:1.1.1.1@53 answered The DNS operation timed out.
+2025-01-22 12:30:35,162 - WARNING - DNS resolution failed for tiles.services.mozilla.com using 1.0.0.1: The resolution lifetime expired after 3.100 seconds: Server Do53:1.0.0.1@53 answered The DNS operation timed out.
+2025-01-22 12:30:38,264 - WARNING - DNS resolution failed for tiles.services.mozilla.com using 208.67.222.222: The resolution lifetime expired after 3.101 seconds: Server Do53:208.67.222.222@53 answered The DNS operation timed out.
+2025-01-22 12:30:41,380 - WARNING - DNS resolution failed for tiles.services.mozilla.com using 208.67.220.220: The resolution lifetime expired after 3.115 seconds: Server Do53:208.67.220.220@53 answered The DNS operation timed out.
+2025-01-22 12:30:46,385 - ERROR - All DNS resolution attempts failed for tiles.services.mozilla.com: The resolution lifetime expired after 5.002 seconds: Server Do53:8.8.8.8@53 answered The DNS operation timed out.
+2025-01-22 12:30:50,494 - WARNING - DNS resolution failed for tiles.services.mozilla.com using 8.8.8.8: The resolution lifetime expired after 3.103 seconds: Server Do53:8.8.8.8@53 answered The DNS operation timed out.
+2025-01-22 12:30:53,607 - WARNING - DNS resolution failed for tiles.services.mozilla.com using 8.8.4.4: The resolution lifetime expired after 3.112 seconds: Server Do53:8.8.4.4@53 answered The DNS operation timed out.
+2025-01-22 12:30:56,714 - WARNING - DNS resolution failed for tiles.services.mozilla.com using 1.1.1.1: The resolution lifetime expired after 3.106 seconds: Server Do53:1.1.1.1@53 answered The DNS operation timed out.
+2025-01-22 12:30:59,828 - WARNING - DNS resolution failed for tiles.services.mozilla.com using 1.0.0.1: The resolution lifetime expired after 3.113 seconds: Server Do53:1.0.0.1@53 answered The DNS operation timed out.
+2025-01-22 12:31:02,933 - WARNING - DNS resolution failed for tiles.services.mozilla.com using 208.67.222.222: The resolution lifetime expired after 3.105 seconds: Server Do53:208.67.222.222@53 answered The DNS operation timed out.
+2025-01-22 12:31:06,043 - WARNING - DNS resolution failed for tiles.services.mozilla.com using 208.67.220.220: The resolution lifetime expired after 3.109 seconds: Server Do53:208.67.220.220@53 answered The DNS operation timed out.
+2025-01-22 12:31:11,049 - ERROR - All DNS resolution attempts failed for tiles.services.mozilla.com: The resolution lifetime expired after 5.006 seconds: Server Do53:8.8.8.8@53 answered The DNS operation timed out.
+2025-01-22 12:31:15,238 - WARNING - DNS resolution failed for tiles.services.mozilla.com using 8.8.8.8: The resolution lifetime expired after 3.109 seconds: Server Do53:8.8.8.8@53 answered The DNS operation timed out.
+2025-01-22 12:31:18,340 - WARNING - DNS resolution failed for tiles.services.mozilla.com using 8.8.4.4: The resolution lifetime expired after 3.101 seconds: Server Do53:8.8.4.4@53 answered The DNS operation timed out.
+2025-01-22 12:31:21,454 - WARNING - DNS resolution failed for tiles.services.mozilla.com using 1.1.1.1: The resolution lifetime expired after 3.113 seconds: Server Do53:1.1.1.1@53 answered The DNS operation timed out.
+2025-01-22 12:31:24,563 - WARNING - DNS resolution failed for tiles.services.mozilla.com using 1.0.0.1: The resolution lifetime expired after 3.108 seconds: Server Do53:1.0.0.1@53 answered The DNS operation timed out.
+2025-01-22 12:31:27,670 - WARNING - DNS resolution failed for tiles.services.mozilla.com using 208.67.222.222: The resolution lifetime expired after 3.107 seconds: Server Do53:208.67.222.222@53 answered The DNS operation timed out.
+2025-01-22 12:31:30,777 - WARNING - DNS resolution failed for tiles.services.mozilla.com using 208.67.220.220: The resolution lifetime expired after 3.106 seconds: Server Do53:208.67.220.220@53 answered The DNS operation timed out.
+2025-01-22 12:31:35,785 - ERROR - All DNS resolution attempts failed for tiles.services.mozilla.com: The resolution lifetime expired after 5.007 seconds: Server Do53:8.8.8.8@53 answered The DNS operation timed out.
+2025-01-22 12:31:35,785 - ERROR - DNS resolution failed for tiles.services.mozilla.com after 3 attempts: The resolution lifetime expired after 5.007 seconds: Server Do53:8.8.8.8@53 answered The DNS operation timed out.
+2025-01-22 12:33:09,672 - INFO - Resolved snippets.cdn.mozilla.net to 3.164.85.87
+2025-01-22 12:33:11,194 - INFO - Skipping problematic domain: tiles.services.mozilla.com
+2025-01-22 12:34:06,553 - INFO - Resolved snippets.cdn.mozilla.net to 3.164.85.24
+2025-01-22 12:34:10,195 - INFO - Skipping problematic domain: tiles.services.mozilla.com
+2025-01-22 12:34:10,557 - INFO - Resolved example.com to 23.192.228.80
+2025-01-22 12:35:26,660 - INFO - Resolved example.com to 23.192.228.80
+2025-01-22 12:36:20,577 - INFO - Handling Firefox-specific domain: snippets.cdn.mozilla.net
+2025-01-22 12:36:20,583 - INFO - Handled Firefox-specific request for detectportal.firefox.com
+2025-01-22 12:36:23,589 - INFO - Handled Firefox-specific request for detectportal.firefox.com
+2025-01-22 12:36:26,604 - INFO - Handled Firefox-specific request for detectportal.firefox.com
+2025-01-22 12:36:29,625 - INFO - Handled Firefox-specific request for detectportal.firefox.com
+2025-01-22 12:36:31,061 - INFO - Handling Firefox-specific domain: tiles.services.mozilla.com
+2025-01-22 12:36:32,634 - INFO - Handled Firefox-specific request for detectportal.firefox.com
+2025-01-22 12:36:33,473 - INFO - Handling Firefox-specific domain: snippets.cdn.mozilla.net
+2025-01-22 12:36:35,645 - INFO - Handled Firefox-specific request for detectportal.firefox.com
+2025-01-22 12:36:37,986 - INFO - Handling Firefox-specific domain: tiles.services.mozilla.com
+2025-01-22 12:36:38,028 - INFO - Resolved example.com to 23.192.228.80
+2025-01-22 12:36:38,652 - INFO - Handled Firefox-specific request for detectportal.firefox.com
+2025-01-22 12:36:41,660 - INFO - Handled Firefox-specific request for detectportal.firefox.com
+2025-01-22 12:36:44,668 - INFO - Handled Firefox-specific request for detectportal.firefox.com
+2025-01-22 12:36:47,676 - INFO - Handled Firefox-specific request for detectportal.firefox.com
+2025-01-22 12:36:50,683 - INFO - Handled Firefox-specific request for detectportal.firefox.com
+2025-01-22 12:36:53,692 - INFO - Handled Firefox-specific request for detectportal.firefox.com
+2025-01-22 12:36:56,701 - INFO - Handled Firefox-specific request for detectportal.firefox.com
+2025-01-22 12:36:59,717 - INFO - Handled Firefox-specific request for detectportal.firefox.com
+2025-01-22 12:37:02,722 - INFO - Handled Firefox-specific request for detectportal.firefox.com
+2025-01-22 12:37:05,726 - INFO - Handled Firefox-specific request for detectportal.firefox.com
+2025-01-22 12:37:08,733 - INFO - Handled Firefox-specific request for detectportal.firefox.com
+2025-01-22 12:37:11,750 - INFO - Handled Firefox-specific request for detectportal.firefox.com
+2025-01-22 12:37:14,755 - INFO - Handled Firefox-specific request for detectportal.firefox.com
+2025-01-22 12:37:17,766 - INFO - Handled Firefox-specific request for detectportal.firefox.com
+2025-01-22 12:37:20,788 - INFO - Handled Firefox-specific request for detectportal.firefox.com
+2025-01-22 12:37:23,795 - INFO - Handled Firefox-specific request for detectportal.firefox.com
+2025-01-22 12:37:26,800 - INFO - Handled Firefox-specific request for detectportal.firefox.com
+2025-01-22 12:37:29,812 - INFO - Handled Firefox-specific request for detectportal.firefox.com
+2025-01-22 12:37:32,821 - INFO - Handled Firefox-specific request for detectportal.firefox.com
+2025-01-22 12:37:35,828 - INFO - Handled Firefox-specific request for detectportal.firefox.com
+2025-01-22 12:37:38,838 - INFO - Handled Firefox-specific request for detectportal.firefox.com
+2025-01-22 12:37:41,849 - INFO - Handled Firefox-specific request for detectportal.firefox.com
+2025-01-22 12:37:44,859 - INFO - Handled Firefox-specific request for detectportal.firefox.com
+2025-01-22 12:37:47,873 - INFO - Handled Firefox-specific request for detectportal.firefox.com
+2025-01-22 12:37:50,887 - INFO - Handled Firefox-specific request for detectportal.firefox.com
+2025-01-22 12:37:53,900 - INFO - Handled Firefox-specific request for detectportal.firefox.com
+2025-01-22 12:37:56,905 - INFO - Handled Firefox-specific request for detectportal.firefox.com
+2025-01-22 12:40:00,206 - INFO - Handled Firefox-specific request for detectportal.firefox.com
+2025-01-22 12:40:03,219 - INFO - Handled Firefox-specific request for detectportal.firefox.com
+2025-01-22 12:40:06,236 - INFO - Handled Firefox-specific request for detectportal.firefox.com
+2025-01-22 12:40:08,111 - INFO - Request processed successfully: http://example.com/
+2025-01-22 12:40:09,245 - INFO - Handled Firefox-specific request for detectportal.firefox.com
+2025-01-22 12:40:12,256 - INFO - Handled Firefox-specific request for detectportal.firefox.com
+2025-01-22 12:40:13,859 - INFO - Handled Firefox-specific request for detectportal.firefox.com
+2025-01-22 12:40:13,884 - INFO - Handled Firefox-specific request for detectportal.firefox.com
+2025-01-22 12:40:15,267 - INFO - Handled Firefox-specific request for detectportal.firefox.com
+2025-01-22 12:40:18,285 - INFO - Handled Firefox-specific request for detectportal.firefox.com
+2025-01-22 12:40:21,296 - INFO - Handled Firefox-specific request for detectportal.firefox.com
+2025-01-22 12:40:24,316 - INFO - Handled Firefox-specific request for detectportal.firefox.com
+2025-01-22 12:40:27,321 - INFO - Handled Firefox-specific request for detectportal.firefox.com
+2025-01-22 12:40:30,330 - INFO - Handled Firefox-specific request for detectportal.firefox.com
+2025-01-22 12:40:33,336 - INFO - Handled Firefox-specific request for detectportal.firefox.com
+2025-01-22 12:40:36,354 - INFO - Handled Firefox-specific request for detectportal.firefox.com
+2025-01-22 12:40:39,366 - INFO - Handled Firefox-specific request for detectportal.firefox.com
+2025-01-22 15:58:22,044 - ERROR - Request failed: http://google.com/ - HTTP Error 301: The HTTP server returned a redirect error that would lead to an infinite loop.
+The last 30x error message was:
+Moved Permanently
+2025-01-22 15:58:22,329 - ERROR - Request failed: http://google.com/favicon.ico - <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Basic Constraints of CA cert not marked critical (_ssl.c:1018)>
+2025-01-22 15:58:36,164 - INFO - Handled Firefox-specific request for detectportal.firefox.com
+2025-01-22 15:58:43,015 - INFO - Handled Firefox-specific request for detectportal.firefox.com
+2025-01-22 15:58:46,023 - INFO - Handled Firefox-specific request for detectportal.firefox.com
+2025-01-22 15:58:49,031 - INFO - Handled Firefox-specific request for detectportal.firefox.com
+2025-01-22 15:58:52,037 - INFO - Handled Firefox-specific request for detectportal.firefox.com
+2025-01-22 15:58:55,044 - INFO - Handled Firefox-specific request for detectportal.firefox.com
+2025-01-22 15:58:58,055 - INFO - Handled Firefox-specific request for detectportal.firefox.com
+2025-01-22 15:59:01,061 - INFO - Handled Firefox-specific request for detectportal.firefox.com
+2025-01-22 15:59:04,066 - INFO - Handled Firefox-specific request for detectportal.firefox.com
+2025-01-22 15:59:07,080 - INFO - Handled Firefox-specific request for detectportal.firefox.com
+2025-01-22 15:59:10,094 - INFO - Handled Firefox-specific request for detectportal.firefox.com
+2025-01-22 15:59:13,103 - INFO - Handled Firefox-specific request for detectportal.firefox.com
+2025-01-22 15:59:16,116 - INFO - Handled Firefox-specific request for detectportal.firefox.com
+2025-01-22 15:59:19,133 - INFO - Handled Firefox-specific request for detectportal.firefox.com
+2025-01-22 16:04:06,834 - INFO - Handled Firefox-specific request for detectportal.firefox.com
+2025-01-22 16:04:09,873 - INFO - Handled Firefox-specific request for detectportal.firefox.com
+2025-01-22 16:04:12,882 - INFO - Handled Firefox-specific request for detectportal.firefox.com
+2025-01-22 16:04:15,889 - INFO - Handled Firefox-specific request for detectportal.firefox.com
+2025-01-22 16:04:18,907 - INFO - Handled Firefox-specific request for detectportal.firefox.com
+2025-01-22 16:04:21,922 - INFO - Handled Firefox-specific request for detectportal.firefox.com
+2025-01-22 16:04:24,935 - INFO - Handled Firefox-specific request for detectportal.firefox.com
+2025-01-22 16:04:27,958 - INFO - Handled Firefox-specific request for detectportal.firefox.com
+2025-01-22 16:04:30,974 - INFO - Handled Firefox-specific request for detectportal.firefox.com
+2025-01-22 16:04:33,992 - INFO - Handled Firefox-specific request for detectportal.firefox.com
+2025-01-22 16:04:37,001 - INFO - Handled Firefox-specific request for detectportal.firefox.com
+2025-01-22 16:04:40,009 - INFO - Handled Firefox-specific request for detectportal.firefox.com
+2025-01-22 16:04:43,023 - INFO - Handled Firefox-specific request for detectportal.firefox.com
+2025-01-22 16:04:46,033 - INFO - Handled Firefox-specific request for detectportal.firefox.com
+2025-01-22 16:04:49,040 - INFO - Handled Firefox-specific request for detectportal.firefox.com
+2025-01-22 16:04:52,056 - INFO - Handled Firefox-specific request for detectportal.firefox.com
+2025-01-22 16:04:55,062 - INFO - Handled Firefox-specific request for detectportal.firefox.com
+2025-01-22 16:04:58,083 - INFO - Handled Firefox-specific request for detectportal.firefox.com
+2025-01-22 16:05:01,130 - INFO - Handled Firefox-specific request for detectportal.firefox.com
+2025-01-22 16:05:04,144 - INFO - Handled Firefox-specific request for detectportal.firefox.com
+2025-01-22 16:05:07,159 - INFO - Handled Firefox-specific request for detectportal.firefox.com
+2025-01-22 16:05:10,176 - INFO - Handled Firefox-specific request for detectportal.firefox.com
+2025-01-22 16:05:13,203 - INFO - Handled Firefox-specific request for detectportal.firefox.com
+2025-01-22 16:05:16,217 - INFO - Handled Firefox-specific request for detectportal.firefox.com
+2025-01-22 16:05:19,232 - INFO - Handled Firefox-specific request for detectportal.firefox.com
+2025-01-22 16:05:22,238 - INFO - Handled Firefox-specific request for detectportal.firefox.com
+2025-01-22 16:05:25,252 - INFO - Handled Firefox-specific request for detectportal.firefox.com
+2025-01-22 16:05:28,258 - INFO - Handled Firefox-specific request for detectportal.firefox.com
+2025-01-22 16:05:31,278 - INFO - Handled Firefox-specific request for detectportal.firefox.com
+2025-01-22 16:08:33,276 - ERROR - Request failed: http://example.com/ - HTTP Error 304: Not Modified
+2025-01-22 16:15:13,981 - INFO - Request processed successfully: http://httpbin.org/get
+2025-01-22 16:15:15,494 - ERROR - Request failed: http://httpbin.org/favicon.ico - HTTP Error 404: NOT FOUND
+2025-01-22 16:20:06,703 - ERROR - Connection failed to httpbin.org:443: module 'ssl' has no attribute 'wrap_socket'
+2025-01-22 16:20:14,447 - INFO - Request processed successfully: http://httpbin.org/get
+2025-01-22 16:20:25,958 - INFO - Request processed successfully: http://example.com/
+2025-01-22 16:21:18,021 - ERROR - Request failed: http://google.com/ - HTTP Error 301: The HTTP server returned a redirect error that would lead to an infinite loop.
+The last 30x error message was:
+Moved Permanently
+2025-01-22 16:26:01,554 - ERROR - Request failed: http://google.com/ - HTTP Error 301: The HTTP server returned a redirect error that would lead to an infinite loop.
+The last 30x error message was:
+Moved Permanently
+2025-01-22 16:26:26,721 - INFO - Request processed successfully: http://erp.mepcoeng.ac.in/
+2025-01-22 16:29:19,604 - ERROR - Request failed: http://example.com/page?id=1%27%20OR%20%271%27=%271 - HTTP Error 500: Software caused connection abort
+2025-01-22 16:29:36,545 - ERROR - Request failed: http://example.com/page?id=1%27%20OR%20%271%27=%271 - HTTP Error 500: Software caused connection abort
+2025-01-22 16:30:56,573 - ERROR - Request failed: http://example.com/page?id=1%20OR%201=1 - HTTP Error 500: Software caused connection abort
+2025-01-22 16:33:55,595 - INFO - Request processed successfully: http://localhost/test?id=1%20OR%20'1'='1'
+2025-01-22 16:34:00,691 - INFO - Request processed successfully: http://localhost/test?id=1;%20DROP%20TABLE%20users;
+2025-01-22 16:34:05,761 - INFO - Request processed successfully: http://localhost/test?id=1%20UNION%20SELECT%20*%20FROM%20users
+2025-01-22 16:34:10,869 - INFO - Request processed successfully: http://localhost/test?id=admin'%20--
+2025-01-22 16:34:15,979 - INFO - Request processed successfully: http://localhost/test?id=admin'%20OR%20'1'='1
+2025-01-22 16:34:21,082 - INFO - Request processed successfully: http://localhost/test?id=1'%20WAITFOR%20DELAY%20'0:0:5'--
+2025-01-22 16:34:26,155 - INFO - Request processed successfully: http://localhost/test?id=1';%20EXEC%20xp_cmdshell%20'net%20user'--
+2025-01-22 16:34:31,232 - INFO - Request processed successfully: http://localhost/test?id=1'%20AND%20(SELECT%20*%20FROM%20(SELECT(SLEEP(5)))a)--
+2025-01-22 16:34:36,324 - INFO - Request processed successfully: http://localhost/test?id=1'%20AND%20'1'='1
+2025-01-22 16:34:41,446 - INFO - Request processed successfully: http://localhost/test?id=1'%20AND%20'1'='2
+2025-01-22 16:34:46,530 - INFO - Request processed successfully: http://localhost/test?id=1'%20AND%20(SELECT%20TOP%201%20CONCAT(@@version,':',db_name()))%3C%3E'
+2025-01-22 16:34:51,630 - INFO - Request processed successfully: http://localhost/test?id=1'%20AND%20IF(1=1,SLEEP(5),0)--
+2025-01-22 16:34:56,718 - INFO - Request processed successfully: http://localhost/test?id=1'%20UNION%20ALL%20SELECT%20NULL,NULL,NULL,NULL,NULL--
+2025-01-22 16:35:01,801 - INFO - Request processed successfully: http://localhost/test?id=1';%20INSERT%20INTO%20users%20VALUES%20('hacker','password');--
+2025-01-22 16:35:04,845 - WARNING - SQL Injection attempt detected in POST data! URL: http://localhost/login, Data: username=1+OR+%271%27%3D%271%27&password=anything
+2025-01-22 16:35:07,878 - WARNING - SQL Injection attempt detected in POST data! URL: http://localhost/login, Data: username=1%3B+DROP+TABLE+users%3B&password=anything
+2025-01-22 16:35:10,920 - WARNING - SQL Injection attempt detected in POST data! URL: http://localhost/login, Data: username=1+UNION+SELECT+%2A+FROM+users&password=anything
+2025-01-22 16:35:13,958 - WARNING - SQL Injection attempt detected in POST data! URL: http://localhost/login, Data: username=admin%27+--&password=anything
+2025-01-22 16:35:16,994 - WARNING - SQL Injection attempt detected in POST data! URL: http://localhost/login, Data: username=admin%27+OR+%271%27%3D%271&password=anything
+2025-01-22 16:35:20,025 - WARNING - SQL Injection attempt detected in POST data! URL: http://localhost/login, Data: username=1%27+WAITFOR+DELAY+%270%3A0%3A5%27--&password=anything
+2025-01-22 16:35:23,056 - WARNING - SQL Injection attempt detected in POST data! URL: http://localhost/login, Data: username=1%27%3B+EXEC+xp_cmdshell+%27net+user%27--&password=anything
+2025-01-22 16:35:26,091 - WARNING - SQL Injection attempt detected in POST data! URL: http://localhost/login, Data: username=1%27+AND+%28SELECT+%2A+FROM+%28SELECT%28SLEEP%285%29%29%29a%29--&password=anything
+2025-01-22 16:35:29,117 - WARNING - SQL Injection attempt detected in POST data! URL: http://localhost/login, Data: username=1%27+AND+%271%27%3D%271&password=anything
+2025-01-22 16:35:32,142 - WARNING - SQL Injection attempt detected in POST data! URL: http://localhost/login, Data: username=1%27+AND+%271%27%3D%272&password=anything
+2025-01-22 16:35:35,174 - WARNING - SQL Injection attempt detected in POST data! URL: http://localhost/login, Data: username=1%27+AND+%28SELECT+TOP+1+CONCAT%28%40%40version%2C%27%3A%27%2Cdb_name%28%29%29%29%3C%3E%27&password=anything
+2025-01-22 16:35:38,206 - WARNING - SQL Injection attempt detected in POST data! URL: http://localhost/login, Data: username=1%27+AND+IF%281%3D1%2CSLEEP%285%29%2C0%29--&password=anything
+2025-01-22 16:35:41,238 - WARNING - SQL Injection attempt detected in POST data! URL: http://localhost/login, Data: username=1%27+UNION+ALL+SELECT+NULL%2CNULL%2CNULL%2CNULL%2CNULL--&password=anything
+2025-01-22 16:35:44,268 - WARNING - SQL Injection attempt detected in POST data! URL: http://localhost/login, Data: username=1%27%3B+INSERT+INTO+users+VALUES+%28%27hacker%27%2C%27password%27%29%3B--&password=anything
+2025-01-24 11:13:06,406 - ERROR - Connection failed to activity-stream-icons.services.mozilla.com:443: [Errno 11001] getaddrinfo failed
+2025-01-24 11:13:06,478 - INFO - Request processed successfully: http://erp.mepcoeng.ac.in/
+2025-01-24 11:13:17,658 - ERROR - Request failed: http://example.com/ - HTTP Error 304: Not Modified
+2025-01-24 11:13:18,403 - ERROR - Request failed: http://example.com/favicon.ico - HTTP Error 404: Not Found
+2025-01-24 11:13:20,863 - ERROR - Request failed: http://google.com/ - HTTP Error 301: The HTTP server returned a redirect error that would lead to an infinite loop.
+The last 30x error message was:
+Moved Permanently
+2025-01-24 11:13:51,892 - INFO - Request processed successfully: http://example.com/
+2025-01-24 11:17:52,023 - INFO - Request processed successfully: http://localhost/test?id=1%20OR%20'1'='1'
+2025-01-24 11:17:57,123 - INFO - Request processed successfully: http://localhost/test?id=1;%20DROP%20TABLE%20users;
+2025-01-24 11:18:02,190 - INFO - Request processed successfully: http://localhost/test?id=1%20UNION%20SELECT%20*%20FROM%20users
+2025-01-24 11:18:07,295 - INFO - Request processed successfully: http://localhost/test?id=admin'%20--
+2025-01-24 11:18:12,370 - INFO - Request processed successfully: http://localhost/test?id=admin'%20OR%20'1'='1
+2025-01-24 11:18:17,458 - INFO - Request processed successfully: http://localhost/test?id=1'%20WAITFOR%20DELAY%20'0:0:5'--
+2025-01-24 11:18:22,542 - INFO - Request processed successfully: http://localhost/test?id=1';%20EXEC%20xp_cmdshell%20'net%20user'--
+2025-01-24 11:18:27,669 - INFO - Request processed successfully: http://localhost/test?id=1'%20AND%20(SELECT%20*%20FROM%20(SELECT(SLEEP(5)))a)--
+2025-01-24 11:18:33,870 - INFO - Request processed successfully: http://localhost/test?id=1'%20AND%20'1'='1
+2025-01-24 11:18:38,930 - INFO - Request processed successfully: http://localhost/test?id=1'%20AND%20'1'='2
+2025-01-24 11:18:43,994 - INFO - Request processed successfully: http://localhost/test?id=1'%20AND%20(SELECT%20TOP%201%20CONCAT(@@version,':',db_name()))%3C%3E'
+2025-01-24 11:18:49,089 - INFO - Request processed successfully: http://localhost/test?id=1'%20AND%20IF(1=1,SLEEP(5),0)--
+2025-01-24 11:18:54,193 - INFO - Request processed successfully: http://localhost/test?id=1'%20UNION%20ALL%20SELECT%20NULL,NULL,NULL,NULL,NULL--
+2025-01-24 11:18:59,268 - INFO - Request processed successfully: http://localhost/test?id=1';%20INSERT%20INTO%20users%20VALUES%20('hacker','password');--
+2025-01-24 11:19:02,298 - WARNING - SQL Injection attempt detected in POST data! URL: http://localhost/login, Data: username=1+OR+%271%27%3D%271%27&password=anything
+2025-01-24 11:19:05,322 - WARNING - SQL Injection attempt detected in POST data! URL: http://localhost/login, Data: username=1%3B+DROP+TABLE+users%3B&password=anything
+2025-01-24 11:19:08,339 - WARNING - SQL Injection attempt detected in POST data! URL: http://localhost/login, Data: username=1+UNION+SELECT+%2A+FROM+users&password=anything
+2025-01-24 11:19:11,367 - WARNING - SQL Injection attempt detected in POST data! URL: http://localhost/login, Data: username=admin%27+--&password=anything
+2025-01-24 11:19:14,406 - WARNING - SQL Injection attempt detected in POST data! URL: http://localhost/login, Data: username=admin%27+OR+%271%27%3D%271&password=anything
+2025-01-24 11:19:17,437 - WARNING - SQL Injection attempt detected in POST data! URL: http://localhost/login, Data: username=1%27+WAITFOR+DELAY+%270%3A0%3A5%27--&password=anything
+2025-01-24 11:19:20,468 - WARNING - SQL Injection attempt detected in POST data! URL: http://localhost/login, Data: username=1%27%3B+EXEC+xp_cmdshell+%27net+user%27--&password=anything
+2025-01-24 11:19:23,502 - WARNING - SQL Injection attempt detected in POST data! URL: http://localhost/login, Data: username=1%27+AND+%28SELECT+%2A+FROM+%28SELECT%28SLEEP%285%29%29%29a%29--&password=anything
+2025-01-24 11:19:26,533 - WARNING - SQL Injection attempt detected in POST data! URL: http://localhost/login, Data: username=1%27+AND+%271%27%3D%271&password=anything
+2025-01-24 11:19:29,564 - WARNING - SQL Injection attempt detected in POST data! URL: http://localhost/login, Data: username=1%27+AND+%271%27%3D%272&password=anything
+2025-01-24 11:19:32,599 - WARNING - SQL Injection attempt detected in POST data! URL: http://localhost/login, Data: username=1%27+AND+%28SELECT+TOP+1+CONCAT%28%40%40version%2C%27%3A%27%2Cdb_name%28%29%29%29%3C%3E%27&password=anything
+2025-01-24 11:19:35,631 - WARNING - SQL Injection attempt detected in POST data! URL: http://localhost/login, Data: username=1%27+AND+IF%281%3D1%2CSLEEP%285%29%2C0%29--&password=anything
+2025-01-24 11:19:38,678 - WARNING - SQL Injection attempt detected in POST data! URL: http://localhost/login, Data: username=1%27+UNION+ALL+SELECT+NULL%2CNULL%2CNULL%2CNULL%2CNULL--&password=anything
+2025-01-24 11:19:41,712 - WARNING - SQL Injection attempt detected in POST data! URL: http://localhost/login, Data: username=1%27%3B+INSERT+INTO+users+VALUES+%28%27hacker%27%2C%27password%27%29%3B--&password=anything
+2025-01-28 11:04:48,451 - INFO - Request processed successfully: http://localhost/test?id=1%20OR%20'1'='1'
+2025-01-28 11:04:53,558 - INFO - Request processed successfully: http://localhost/test?id=1;%20DROP%20TABLE%20users;
+2025-01-28 11:04:58,603 - INFO - Request processed successfully: http://localhost/test?id=1%20UNION%20SELECT%20*%20FROM%20users
+2025-01-28 11:05:03,677 - INFO - Request processed successfully: http://localhost/test?id=admin'%20--
+2025-01-28 11:05:08,771 - INFO - Request processed successfully: http://localhost/test?id=admin'%20OR%20'1'='1
+2025-01-28 11:05:13,853 - INFO - Request processed successfully: http://localhost/test?id=1'%20WAITFOR%20DELAY%20'0:0:5'--
+2025-01-28 11:05:18,963 - INFO - Request processed successfully: http://localhost/test?id=1';%20EXEC%20xp_cmdshell%20'net%20user'--
+2025-01-28 11:05:24,063 - INFO - Request processed successfully: http://localhost/test?id=1'%20AND%20(SELECT%20*%20FROM%20(SELECT(SLEEP(5)))a)--
+2025-01-28 11:05:29,156 - INFO - Request processed successfully: http://localhost/test?id=1'%20AND%20'1'='1
+2025-01-28 11:05:34,235 - INFO - Request processed successfully: http://localhost/test?id=1'%20AND%20'1'='2
+2025-01-28 11:05:39,365 - INFO - Request processed successfully: http://localhost/test?id=1'%20AND%20(SELECT%20TOP%201%20CONCAT(@@version,':',db_name()))%3C%3E'
+2025-01-28 11:05:44,461 - INFO - Request processed successfully: http://localhost/test?id=1'%20AND%20IF(1=1,SLEEP(5),0)--
+2025-01-28 11:05:49,549 - INFO - Request processed successfully: http://localhost/test?id=1'%20UNION%20ALL%20SELECT%20NULL,NULL,NULL,NULL,NULL--
+2025-01-28 11:05:54,636 - INFO - Request processed successfully: http://localhost/test?id=1';%20INSERT%20INTO%20users%20VALUES%20('hacker','password');--
+2025-01-28 11:05:57,693 - WARNING - SQL Injection attempt detected in POST data! URL: http://localhost/login, Data: username=1+OR+%271%27%3D%271%27&password=anything
+2025-01-28 11:06:00,749 - WARNING - SQL Injection attempt detected in POST data! URL: http://localhost/login, Data: username=1%3B+DROP+TABLE+users%3B&password=anything
+2025-01-28 11:06:03,786 - WARNING - SQL Injection attempt detected in POST data! URL: http://localhost/login, Data: username=1+UNION+SELECT+%2A+FROM+users&password=anything
+2025-01-28 11:06:06,811 - WARNING - SQL Injection attempt detected in POST data! URL: http://localhost/login, Data: username=admin%27+--&password=anything
+2025-01-28 11:06:09,859 - WARNING - SQL Injection attempt detected in POST data! URL: http://localhost/login, Data: username=admin%27+OR+%271%27%3D%271&password=anything
+2025-01-28 11:06:12,902 - WARNING - SQL Injection attempt detected in POST data! URL: http://localhost/login, Data: username=1%27+WAITFOR+DELAY+%270%3A0%3A5%27--&password=anything
+2025-01-28 11:06:15,933 - WARNING - SQL Injection attempt detected in POST data! URL: http://localhost/login, Data: username=1%27%3B+EXEC+xp_cmdshell+%27net+user%27--&password=anything
+2025-01-28 11:06:18,972 - WARNING - SQL Injection attempt detected in POST data! URL: http://localhost/login, Data: username=1%27+AND+%28SELECT+%2A+FROM+%28SELECT%28SLEEP%285%29%29%29a%29--&password=anything
+2025-01-28 11:06:21,997 - WARNING - SQL Injection attempt detected in POST data! URL: http://localhost/login, Data: username=1%27+AND+%271%27%3D%271&password=anything
+2025-01-28 11:06:25,057 - WARNING - SQL Injection attempt detected in POST data! URL: http://localhost/login, Data: username=1%27+AND+%271%27%3D%272&password=anything
+2025-01-28 11:06:28,113 - WARNING - SQL Injection attempt detected in POST data! URL: http://localhost/login, Data: username=1%27+AND+%28SELECT+TOP+1+CONCAT%28%40%40version%2C%27%3A%27%2Cdb_name%28%29%29%29%3C%3E%27&password=anything
+2025-01-28 11:06:31,157 - WARNING - SQL Injection attempt detected in POST data! URL: http://localhost/login, Data: username=1%27+AND+IF%281%3D1%2CSLEEP%285%29%2C0%29--&password=anything
+2025-01-28 11:06:34,212 - WARNING - SQL Injection attempt detected in POST data! URL: http://localhost/login, Data: username=1%27+UNION+ALL+SELECT+NULL%2CNULL%2CNULL%2CNULL%2CNULL--&password=anything
+2025-01-28 11:06:37,236 - WARNING - SQL Injection attempt detected in POST data! URL: http://localhost/login, Data: username=1%27%3B+INSERT+INTO+users+VALUES+%28%27hacker%27%2C%27password%27%29%3B--&password=anything
+2025-01-28 13:52:04,980 - ERROR - Request failed: http://example.com/ - HTTP Error 304: Not Modified
+2025-01-28 13:52:09,972 - ERROR - Request failed: http://example.com/favicon.ico - HTTP Error 404: Not Found
+2025-01-29 12:25:14,618 - INFO - Request processed successfully: http://localhost/test?id=1%20OR%20'1'='1'
+2025-01-29 12:25:19,727 - INFO - Request processed successfully: http://localhost/test?id=1;%20DROP%20TABLE%20users;
+2025-01-29 12:25:24,841 - INFO - Request processed successfully: http://localhost/test?id=1%20UNION%20SELECT%20*%20FROM%20users
+2025-01-29 12:25:29,880 - INFO - Request processed successfully: http://localhost/test?id=admin'%20--
+2025-01-29 12:25:34,964 - INFO - Request processed successfully: http://localhost/test?id=admin'%20OR%20'1'='1
+2025-01-29 12:25:40,031 - INFO - Request processed successfully: http://localhost/test?id=1'%20WAITFOR%20DELAY%20'0:0:5'--
+2025-01-29 12:25:45,106 - INFO - Request processed successfully: http://localhost/test?id=1';%20EXEC%20xp_cmdshell%20'net%20user'--
+2025-01-29 12:25:50,200 - INFO - Request processed successfully: http://localhost/test?id=1'%20AND%20(SELECT%20*%20FROM%20(SELECT(SLEEP(5)))a)--
+2025-01-29 12:25:55,295 - INFO - Request processed successfully: http://localhost/test?id=1'%20AND%20'1'='1
+2025-01-29 12:26:00,371 - INFO - Request processed successfully: http://localhost/test?id=1'%20AND%20'1'='2
+2025-01-29 12:26:05,478 - INFO - Request processed successfully: http://localhost/test?id=1'%20AND%20(SELECT%20TOP%201%20CONCAT(@@version,':',db_name()))%3C%3E'
+2025-01-29 12:26:10,575 - INFO - Request processed successfully: http://localhost/test?id=1'%20AND%20IF(1=1,SLEEP(5),0)--
+2025-01-29 12:26:15,657 - INFO - Request processed successfully: http://localhost/test?id=1'%20UNION%20ALL%20SELECT%20NULL,NULL,NULL,NULL,NULL--
+2025-01-29 12:26:20,719 - INFO - Request processed successfully: http://localhost/test?id=1';%20INSERT%20INTO%20users%20VALUES%20('hacker','password');--
+2025-01-29 12:26:23,757 - WARNING - SQL Injection attempt detected in POST data! URL: http://localhost/login, Data: username=1+OR+%271%27%3D%271%27&password=anything
+2025-01-29 12:26:26,786 - WARNING - SQL Injection attempt detected in POST data! URL: http://localhost/login, Data: username=1%3B+DROP+TABLE+users%3B&password=anything
+2025-01-29 12:26:29,822 - WARNING - SQL Injection attempt detected in POST data! URL: http://localhost/login, Data: username=1+UNION+SELECT+%2A+FROM+users&password=anything
+2025-01-29 12:26:32,853 - WARNING - SQL Injection attempt detected in POST data! URL: http://localhost/login, Data: username=admin%27+--&password=anything
+2025-01-29 12:26:35,889 - WARNING - SQL Injection attempt detected in POST data! URL: http://localhost/login, Data: username=admin%27+OR+%271%27%3D%271&password=anything
+2025-01-29 12:26:38,923 - WARNING - SQL Injection attempt detected in POST data! URL: http://localhost/login, Data: username=1%27+WAITFOR+DELAY+%270%3A0%3A5%27--&password=anything
+2025-01-29 12:26:41,951 - WARNING - SQL Injection attempt detected in POST data! URL: http://localhost/login, Data: username=1%27%3B+EXEC+xp_cmdshell+%27net+user%27--&password=anything
+2025-01-29 12:26:44,997 - WARNING - SQL Injection attempt detected in POST data! URL: http://localhost/login, Data: username=1%27+AND+%28SELECT+%2A+FROM+%28SELECT%28SLEEP%285%29%29%29a%29--&password=anything
+2025-01-29 12:26:48,024 - WARNING - SQL Injection attempt detected in POST data! URL: http://localhost/login, Data: username=1%27+AND+%271%27%3D%271&password=anything
+2025-01-29 12:26:51,060 - WARNING - SQL Injection attempt detected in POST data! URL: http://localhost/login, Data: username=1%27+AND+%271%27%3D%272&password=anything
+2025-01-29 12:26:54,081 - WARNING - SQL Injection attempt detected in POST data! URL: http://localhost/login, Data: username=1%27+AND+%28SELECT+TOP+1+CONCAT%28%40%40version%2C%27%3A%27%2Cdb_name%28%29%29%29%3C%3E%27&password=anything
+2025-01-29 12:26:57,110 - WARNING - SQL Injection attempt detected in POST data! URL: http://localhost/login, Data: username=1%27+AND+IF%281%3D1%2CSLEEP%285%29%2C0%29--&password=anything
+2025-01-29 12:27:00,137 - WARNING - SQL Injection attempt detected in POST data! URL: http://localhost/login, Data: username=1%27+UNION+ALL+SELECT+NULL%2CNULL%2CNULL%2CNULL%2CNULL--&password=anything
+2025-01-29 12:27:03,169 - WARNING - SQL Injection attempt detected in POST data! URL: http://localhost/login, Data: username=1%27%3B+INSERT+INTO+users+VALUES+%28%27hacker%27%2C%27password%27%29%3B--&password=anything
+2025-02-16 09:31:07,224 - INFO - Request processed successfully: http://localhost/test?id=1%20UNION%20SELECT%20*%20FROM%20users
+2025-02-16 09:31:14,042 - INFO - Request processed successfully: http://localhost/test?id=admin'%20--
+2025-02-16 09:31:19,172 - INFO - Request processed successfully: http://localhost/test?id=admin'%20OR%20'1'='1
+2025-02-16 09:31:24,288 - INFO - Request processed successfully: http://localhost/test?id=1'%20WAITFOR%20DELAY%20'0:0:5'--
+2025-02-16 09:31:30,192 - INFO - Request processed successfully: http://localhost/test?id=1';%20EXEC%20xp_cmdshell%20'net%20user'--
+2025-02-16 09:31:35,325 - INFO - Request processed successfully: http://localhost/test?id=1'%20AND%20(SELECT%20*%20FROM%20(SELECT(SLEEP(5)))a)--
+2025-02-16 09:31:40,404 - INFO - Request processed successfully: http://localhost/test?id=1'%20AND%20'1'='1
+2025-02-16 09:31:46,250 - INFO - Request processed successfully: http://localhost/test?id=1'%20AND%20'1'='2
+2025-02-16 09:31:51,311 - INFO - Request processed successfully: http://localhost/test?id=1'%20AND%20(SELECT%20TOP%201%20CONCAT(@@version,':',db_name()))%3C%3E'
+2025-02-16 09:31:56,374 - INFO - Request processed successfully: http://localhost/test?id=1'%20AND%20IF(1=1,SLEEP(5),0)--
+2025-02-16 09:32:02,371 - INFO - Request processed successfully: http://localhost/test?id=1'%20UNION%20ALL%20SELECT%20NULL,NULL,NULL,NULL,NULL--
+2025-02-16 09:32:07,479 - INFO - Request processed successfully: http://localhost/test?id=1';%20INSERT%20INTO%20users%20VALUES%20('hacker','password');--
+2025-02-16 09:32:10,514 - WARNING - SQL Injection attempt detected in POST data! URL: http://localhost/login, Data: username=1+OR+%271%27%3D%271%27&password=anything
+2025-02-16 09:32:13,536 - WARNING - SQL Injection attempt detected in POST data! URL: http://localhost/login, Data: username=1%3B+DROP+TABLE+users%3B&password=anything
+2025-02-16 09:32:16,572 - WARNING - SQL Injection attempt detected in POST data! URL: http://localhost/login, Data: username=1+UNION+SELECT+%2A+FROM+users&password=anything
+2025-02-16 09:32:21,475 - WARNING - SQL Injection attempt detected in POST data! URL: http://localhost/login, Data: username=admin%27+--&password=anything
+2025-02-16 09:32:24,503 - WARNING - SQL Injection attempt detected in POST data! URL: http://localhost/login, Data: username=admin%27+OR+%271%27%3D%271&password=anything
+2025-02-16 09:32:29,527 - WARNING - SQL Injection attempt detected in POST data! URL: http://localhost/login, Data: username=1%27+WAITFOR+DELAY+%270%3A0%3A5%27--&password=anything
+2025-02-16 09:32:32,572 - WARNING - SQL Injection attempt detected in POST data! URL: http://localhost/login, Data: username=1%27%3B+EXEC+xp_cmdshell+%27net+user%27--&password=anything
+2025-02-16 09:32:37,592 - WARNING - SQL Injection attempt detected in POST data! URL: http://localhost/login, Data: username=1%27+AND+%28SELECT+%2A+FROM+%28SELECT%28SLEEP%285%29%29%29a%29--&password=anything
+2025-02-16 09:32:40,614 - WARNING - SQL Injection attempt detected in POST data! URL: http://localhost/login, Data: username=1%27+AND+%271%27%3D%271&password=anything
+2025-02-16 09:32:45,656 - WARNING - SQL Injection attempt detected in POST data! URL: http://localhost/login, Data: username=1%27+AND+%271%27%3D%272&password=anything
+2025-02-16 09:32:48,698 - WARNING - SQL Injection attempt detected in POST data! URL: http://localhost/login, Data: username=1%27+AND+%28SELECT+TOP+1+CONCAT%28%40%40version%2C%27%3A%27%2Cdb_name%28%29%29%29%3C%3E%27&password=anything
+2025-02-16 09:32:53,709 - WARNING - SQL Injection attempt detected in POST data! URL: http://localhost/login, Data: username=1%27+AND+IF%281%3D1%2CSLEEP%285%29%2C0%29--&password=anything
+2025-02-16 09:32:56,728 - WARNING - SQL Injection attempt detected in POST data! URL: http://localhost/login, Data: username=1%27+UNION+ALL+SELECT+NULL%2CNULL%2CNULL%2CNULL%2CNULL--&password=anything
+2025-02-16 09:33:01,754 - WARNING - SQL Injection attempt detected in POST data! URL: http://localhost/login, Data: username=1%27%3B+INSERT+INTO+users+VALUES+%28%27hacker%27%2C%27password%27%29%3B--&password=anything
+2025-02-16 09:38:28,053 - ERROR - Request failed: http://example.com/?id=1%27;%20DROP%20TABLE%20users;-- - <urlopen error [Errno 11001] getaddrinfo failed>

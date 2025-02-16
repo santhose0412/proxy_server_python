@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>SQL Injection Test</title>
+</head>
+<body>
+    <h2>GET Test</h2>
+    <form action="http://localhost/test" method="GET">
+        <input type="text" name="id" value="1 OR 1=1">
+        <input type="submit" value="Test GET">
+    </form>
+
+    <h2>POST Test</h2>
+    <form action="http://localhost/login" method="POST">
+        <input type="text" name="username" value="admin' OR '1'='1">
+        <input type="password" name="password" value="anything">
+        <input type="submit" value="Test POST">
+    </form>
+</body>
+</html> 

